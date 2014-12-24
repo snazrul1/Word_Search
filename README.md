@@ -1,7 +1,7 @@
 Hello! This is a sample text for testing our
 Regular Expression code on Python. 
 
-Simply run the search.py code and you will 
+Simply run the **search.py** code and you will 
 see the frequency of the word 'code' on this 
 README.md file.
 
