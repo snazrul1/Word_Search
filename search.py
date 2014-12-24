@@ -1,3 +1,5 @@
+__author__='Sadat'
+
 import re
 
 file=open('README.md')
